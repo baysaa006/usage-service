@@ -11,10 +11,10 @@ const formattedDate = currentDate.toISOString().split("T")[0];
 const log = `log_${formattedDate}.txt`;
 
 const config = {
-  user: "sa",
-  password: "Passw0rd",
-  server: "localhost",
-  database: "chatbot",
+  user: "user",
+  password: "password",
+  server: "server",
+  database: "database",
   options: {
     encrypt: false,
   },
