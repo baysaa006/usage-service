@@ -1,0 +1,16 @@
+{
+  "name": "usage-service",
+  "version": "0.0.1",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "mssql": "^10.0.2",
+    "node-cron": "^3.0.3",
+    "path": "^0.12.7",
+    "uuid": "^9.0.1"
+  }
+}
