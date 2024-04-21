@@ -12,7 +12,7 @@ const log = `log_${formattedDate}.txt`;
 
 const config = {
   user: "user",
-  password: "password",
+  password: "passwordt",
   server: "server",
   database: "database",
   options: {
