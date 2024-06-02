@@ -2,7 +2,7 @@
   "name": "usage-service",
   "version": "0.0.1",
   "private": true,
-  "type": "module",
+  "type": "modu",
   "scripts": {
     "start": "node src/index.js"
   },
